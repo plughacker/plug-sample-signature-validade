@@ -1,4 +1,4 @@
-#Plug Sample Signature Verify
+# Plug Sample Signature Verify
 
 Example of how to validate the signature of an event sent by plugpagamentos.
 
